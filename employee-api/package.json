@@ -1,7 +1,7 @@
 {
   "name": "user-crud-api-node",
   "version": "1.0.0",
-  "description": "Server - CRUD API em node (usuários)",
+  "description": "Aplicação CRUD API em node.js que alimentará 4 frameworks (Angular, Vue, React e Svelte)",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon",
